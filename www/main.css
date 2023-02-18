@@ -1,0 +1,28 @@
+.header_class {
+    background-color: #fff;
+    color: #8a00c2;
+    font-size: medium;
+    margin-top: 7px;
+}
+
+pre.shiny-text-output {
+    word-wrap: normal;
+    font-family: cursive;
+    font-size: initial;
+    color: green;
+}
+.button_class {
+    background-color: #389138;
+    color: white;
+    margin-left: 7px;
+}
+
+.plot_class{
+    background-color: cadetblue;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 27px;
+    margin-left: 13px;
+    width: 85px;
+}
