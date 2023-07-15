@@ -1,8 +1,8 @@
 # Quantzig_EDA_Task_modules
 e EDA data visualization ‘ggplot2’ tool using R and RShiny using modules
 
-## Author: Dadi Siva Kumari
-## Mail-id: sivakumari1996d@gmail.com
+## Author: Sundeep
+## Mail-id: ysundeep.pegasian@gmail.com
 ## Input Data:
 *  Upload any csv format dataset
 
